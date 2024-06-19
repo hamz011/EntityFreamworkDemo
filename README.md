@@ -256,6 +256,4 @@ Katkıda bulunmak için lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına ba
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
-```
 
-Bu güncellenmiş README dosyası, veritabanı dosyasının yolunu ve nasıl kullanılacağını da içermektedir. Böylece kullanıcılar, gerekli veritabanını oluşturmak için bu dosyayı kullanabilirler.
