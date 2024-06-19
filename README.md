@@ -251,7 +251,7 @@ Bu projede kullanılan veritabanı dosyasının yolu: `Database/ETrade.dacpac`. 
 
 ## Katkıda Bulunma
 
-Katkıda bulunmak için lütfen [CONTRIBUTING](CONTRIBUTING) dosyasına bakın.
+Katkıda bulunmak için lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına bakın.
 
 ## Lisans
 
